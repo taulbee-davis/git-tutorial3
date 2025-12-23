@@ -1,2 +1,2 @@
-feature1
+feature 2
 new feature bugfix2
